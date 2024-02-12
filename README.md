@@ -1,3 +1,3 @@
 # BaresFuerRaresScore
 
-#https://fancygrade.github.io/BaresFuerRaresScore/
+https://fancygrade.github.io/BaresFuerRaresScore/
